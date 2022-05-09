@@ -20,16 +20,14 @@ body {
 /* ESTILO DO LOGIN*/
 
 .wrapper {
-    margin-top: 20px;
-    margin-bottom: 20px;
+  height: 100vh;
 }
 
 .form-signin {
-    max-width: 420px;
-    padding: 0px 38px 36px;
-    margin: 0 auto;
-    background-color: #eee;
-    border: 0.2em solid rgba(0,0,0,0.1);
+    width: fit-content;
+    padding: 5px;
+    border: 1px solid gray;
+    border-radius: 5px;
 }
 
 .form-login-heading {
