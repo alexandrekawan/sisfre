@@ -24,40 +24,29 @@ body {
 }
 
 .form-signin {
+    text-align: center;
     width: fit-content;
-    padding: 5px;
+    padding: 20px;
     border: 1px solid gray;
     border-radius: 5px;
 }
 
 .form-login-heading {
-    text-align:center;
+    text-align :center;
     margin-bottom: 20px;
 }
 
 .form-login-heading img {
-    max-height: 80%;
-    max-width: 80%
-}
-
-.form-control {
-    position: relative;
-    font-size: 1em;
-    height: auto;
-    padding: 10px;
-    box-sizing: border-box;
+    width: 20vw;
+    height: 20vh;
 }
 
 input[type="email"] {
-    margin-bottom: 0px;
-    border-bottom-left-radius: 0;
-    border-bottom-right-radius: 0;
+    margin-bottom: 10px;
 }
 
 input[type="password"] {
     margin-bottom: 20px;
-    border-top-left-radius: 0;
-    border-top-right-radius: 0;
 }
 
 .colorgraph {
