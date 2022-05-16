@@ -23,7 +23,7 @@
             <button type="submit" class="form-control btn btn-success">Entrar</button>
     
 
-            <a class="btn btn-link" href="{{ route('password.request') }}">Esqueceu sua senha?</a>
+            <a class="btn btn-link text-decoration-none" href="{{ route('password.request') }}">Esqueceu sua senha?</a>
                 
             
         </form>
